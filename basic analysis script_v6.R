@@ -5,7 +5,7 @@
 # Author: 		      Authors name
 # Script purpose:   This is what it does
 # Version No:		    v1
-# Last updated:	     dd
+# Last updated:	     
 
 
 ###########################################################################
